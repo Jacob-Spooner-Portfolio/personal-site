@@ -1,4 +1,5 @@
 import React from 'react'
+import '../../styles/route-templates.css'
 
 const About = () => {
     return (
